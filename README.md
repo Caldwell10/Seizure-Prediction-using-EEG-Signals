@@ -58,7 +58,7 @@ This project aims to:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - **Best Performing Model:** KNN achieved the highest accuracy and AUC score.
 - **Random Forest** also performed exceptionally well, closely following KNN.
 - **XGBoost** showed moderate performance but could improve with further hyperparameter tuning.
